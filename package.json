@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "Nikhil's portfolio",
+  "description": "My portfolio built with gatsby",
   "version": "0.0.16",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Nikhil Sharma",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
